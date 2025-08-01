@@ -175,6 +175,10 @@ streamlit run app.py
 
 ![InstaGeo Serve](assets/instageo_serve.png)
 
+## GeoAI Hackathon
+See [GEOAI_HACKATHON.md](./GEOAI_HACKATHON.md) for an overview of the challenge and our solution using InstaGeo.
+
+
 
 ## Contributing
 
